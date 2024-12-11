@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1733582196 source:c:\users\hp\onedrive - telkom university\coolyeah\semester 3\tugas\struktur data\tubes\bimbingan.cpp
+	"Bimbingan.h"
+
+1733582196 c:\users\hp\onedrive - telkom university\coolyeah\semester 3\tugas\struktur data\tubes\bimbingan.h
+	<iostream>
+	"Dosen.h"
+	"Mahasiswa.h"
+
+1733582419 c:\users\hp\onedrive - telkom university\coolyeah\semester 3\tugas\struktur data\tubes\dosen.h
+	<iostream>
+
+1733582196 c:\users\hp\onedrive - telkom university\coolyeah\semester 3\tugas\struktur data\tubes\mahasiswa.h
+	<iostream>
+
+1733582196 source:c:\users\hp\onedrive - telkom university\coolyeah\semester 3\tugas\struktur data\tubes\dosen.cpp
+	"Dosen.h"
+
+1733582196 source:c:\users\hp\onedrive - telkom university\coolyeah\semester 3\tugas\struktur data\tubes\mahasiswa.cpp
+	"Mahasiswa.h"
+
+1733468714 source:c:\users\hp\onedrive - telkom university\coolyeah\semester 3\tugas\struktur data\tubes\main.cpp
+	<iostream>
+	"Dosen.h"
+	"Mahasiswa.h"
+	"Bimbingan.h"
+
