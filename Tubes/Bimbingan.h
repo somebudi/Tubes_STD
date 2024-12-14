@@ -25,8 +25,8 @@ struct List_bimbingan{
 
 void createListBimbingan(List_bimbingan &Bimbing);
 adr_bimbingan createElmBimBingan(infotypeBimbing x);
-bool IsEmptyDosen(List_bimbingan Dos);
-void insert_lastDosen(List_bimbingan &Bimbing,adr_bimbingan p);
+bool IsEmptyBimbingan(List_bimbingan Dos);
+void insert_lastPembimbing(List_bimbingan &Bimbing,adr_bimbingan p);
 void deleted_first(List_bimbingan &Bimbing,adr_bimbingan &p);
 void deleted_last(List_bimbingan &Bimbing,adr_bimbingan &p);
 void deleted_after(List_bimbingan &Bimbing,adr_bimbingan &p,adr_bimbingan prec);
